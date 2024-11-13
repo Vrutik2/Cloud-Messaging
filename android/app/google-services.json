@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290094919242",
+    "project_id": "cloud-messaging-21fd1",
+    "storage_bucket": "cloud-messaging-21fd1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290094919242:android:01905cbc2aa6343d8d80b3",
+        "android_client_info": {
+          "package_name": "com.example.cloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUa7kvrVjVcHerSowbszquCgIc9fl1iUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
